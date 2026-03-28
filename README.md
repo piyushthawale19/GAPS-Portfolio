@@ -62,10 +62,10 @@ Modern Navigation: Custom-built overlay Navbar with scroll-triggered visibility.
     
 📨 Contact Me
 
-Email: mohamedfawzeix@gmail.com
+Email: piyushthawale19@gmail.com
 
-LinkedIn: Mohamed Fawzi
+LinkedIn: https://www.linkedin.com/in/piyush-thawale-03b706259/
 
-GitHub: @MohamedxFawzi
+GitHub: https://github.com/piyushthawale19
 
 ⭐️ If you find this project helpful, don't forget to give it a star!
